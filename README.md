@@ -1,6 +1,5 @@
 ### Oi. Este é o perfil do Murilo Silva 👋
 
-- 🔭 Hoje trabalho com front-end na Upnid
 - 🌱 Estudando Typescript
 
 <div align="center">
