@@ -7,9 +7,12 @@
 
 ### If you want to see some highlights of my production so far, check:
 
-- <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-truckpag)">Desafio TruckPag</a>
-- <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">Desafio Vizir</a>
-- <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">Intelie Chart</a>
+- <a href="https://github.com/murilojssilva/desafio-truckpag">Desafio TruckPag</a>
+- <a href="https://github.com/murilojssilva/desafio-vizir">Desafio Vizir</a>
+- <a href="https://github.com/murilojssilva/intelie-chart">Intelie Chart</a>
+- <a href="https://github.com/murilojssilva/pokemon-intelie">Pokemon Intelie</a>
+- <a href="https://github.com/murilojssilva/resolvelogofrontend">ResolveLogo Frontend</a>
+- <a href="https://github.com/murilojssilva/resolvelogobackend">ResolveLogo Backend</a>
 
 ### Github Stats
 
