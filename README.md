@@ -7,9 +7,9 @@
 
 ### If you want to see some highlights of my production so far, check:
 
-- <a href="https://gitlab.com/murilojssilva/desafio-truckpag" target="_blank">Desafio TruckPag</a>
-- <a href="https://gitlab.com/murilojssilva/desafio-vizir" target="_blank">Desafio Vizir</a>
-- <a href="https://gitlab.com/murilojssilva/intelie-chart" target="_blank">Intelie Chart</a>
+- <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-truckpag)">Desafio TruckPag</a>
+- <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">Desafio Vizir</a>
+- <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">Intelie Chart</a>
 
 <div align="center">
   <a href="https://github.com/murilojssilva">
@@ -17,6 +17,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilojssilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+### Github Stats
+  
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Murilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
