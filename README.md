@@ -1,4 +1,4 @@
-### hI. It's a Murilo Silva profile 👋
+# Hi. It's a Murilo Silva profile 👋
 
 - 💻 Front End Developer ReactJS
 - 🧑‍🎓 Completing the Computer Science degree at the State University of Rio de Janeiro
