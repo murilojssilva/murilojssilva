@@ -1,6 +1,15 @@
-### Oi. Este é o perfil do Murilo Silva 👋
+### hI. It's a Murilo Silva profile 👋
 
-- 🌱 Estudando Typescript
+- 💻 Front End Developer ReactJS
+- 🧑‍🎓 Completing the Computer Science degree at the State University of Rio de Janeiro
+- 📓 Studying React Native
+- 📱 Developing the ACCESS System
+
+### If you want to see some highlights of my production so far, check:
+
+- Desafio TruckPag<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-truckpag)">
+- Desafio Vizir<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">
+- Intelie Chart<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">
 
 <div align="center">
   <a href="https://github.com/murilojssilva">
