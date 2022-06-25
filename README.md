@@ -7,9 +7,9 @@
 
 ### If you want to see some highlights of my production so far, check:
 
-- Desafio TruckPag<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-truckpag)">
-- Desafio Vizir<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">
-- Intelie Chart<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">
+<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-truckpag)">
+<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">
+<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">
 
 <div align="center">
   <a href="https://github.com/murilojssilva">
