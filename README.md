@@ -7,9 +7,9 @@
 
 ### If you want to see some highlights of my production so far, check:
 
-<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-truckpag)">
-<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">
-<a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">
+- <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-truckpag)">Desafio TruckPag</a>
+- <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">Desafio Vizir</a>
+- <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">Intelie Chart</a>
 
 <div align="center">
   <a href="https://github.com/murilojssilva">
