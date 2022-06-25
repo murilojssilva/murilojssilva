@@ -11,13 +11,13 @@
 - <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">Desafio Vizir</a>
 - <a href="[https://github.com/murilojssilva](https://github.com/murilojssilva/desafio-vizir)">Intelie Chart</a>
 
+### Github Stats
+
 <div align="center">
   <a href="https://github.com/murilojssilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilojssilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilojssilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-### Github Stats
   
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
