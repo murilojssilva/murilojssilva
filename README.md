@@ -1,9 +1,14 @@
 # Hi. It's a Murilo Silva profile 👋
 
-- 💻 Front End Developer ReactJS
-- 🧑‍🎓 Completing the Computer Science degree at the State University of Rio de Janeiro
-- 📓 Studying React Native
-- 📱 Developing the ACCESS System
+💻 I worked at Upnid Pagamentos as a Front End Developer, responsible for website maintenance, development of new screens, customer alerts, document submission view, migration of legacy code to Typescript and use of Storybook to maintain the Design System.
+
+📓 I was part of an Extension project at the University of the State of Rio de Janeiro aimed at developing the website prototype of the Institute of Mathematics and Statistics of the Institution, where I did from obtaining the functional and non-functional requirements and business rules, preparing the document requirements and prototype development.
+
+:classical_building: I developed the website for the company ResolveLogo, both the frontend developing the company's landing page and the backend developing a micro-service for sending emails.
+
+🧑‍🎓 Completing the Bachelor's Degree in Computer Science at the State University of Rio de Janeiro.
+
+📱 Currently, developing the ACESSO System, responsible for listing which types of accessibility are served in registered establishments close to the user's location.
 
 ### If you want to see some highlights of my production so far, check:
 
