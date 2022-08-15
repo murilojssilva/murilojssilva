@@ -1,6 +1,6 @@
 # Hi. It's a Murilo Silva profile 👋
 
-💻 I worked at Upnid Pagamentos as a Front End Developer, responsible for website maintenance, development of new screens, customer alerts, document submission view, migration of legacy code to Typescript and use of Storybook to maintain the Design System.
+💻 I worked at Upnid Pagamentos as a Front End Developer, responsible for website maintenance, development of new screens, customer alerts, document submission view, migration of legacy code to Typescript and use of Storybook to maintain the Design System. Currently, I work as a Front End Developer at Pagcom.
 
 📓 I was part of an Extension project at the University of the State of Rio de Janeiro aimed at developing the website prototype of the Institute of Mathematics and Statistics of the Institution, where I did from obtaining the functional and non-functional requirements and business rules, preparing the document requirements and prototype development.
 
@@ -12,6 +12,8 @@
 
 ### If you want to see some highlights of my production so far, check:
 
+- <a href="https://github.com/murilojssilva/desafio-pagcom">Desafio PagCom</a>
+- <a href="https://github.com/murilojssilva/upnid-uprace">Desafio Upnid Pagamentos</a>
 - <a href="https://github.com/murilojssilva/desafio-truckpag">Desafio TruckPag</a>
 - <a href="https://github.com/murilojssilva/desafio-vizir">Desafio Vizir</a>
 - <a href="https://github.com/murilojssilva/intelie-chart">Intelie Chart</a>
