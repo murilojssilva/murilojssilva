@@ -1,6 +1,6 @@
 # Hi. It's a Murilo Silva profile 👋
 
-💻 I worked at Upnid Pagamentos as a Front End Developer, responsible for website maintenance, development of new screens, customer alerts, document submission view, migration of legacy code to Typescript and use of Storybook to maintain the Design System. Currently, I work as a Front End Developer at Pagcom.
+💻 I worked at Upnid Pagamentos as a Front End Developer, responsible for website maintenance, development of new screens, customer alerts, document submission view, migration of legacy code to Typescript and use of Storybook to maintain the Design System.
 
 📓 I was part of an Extension project at the University of the State of Rio de Janeiro aimed at developing the website prototype of the Institute of Mathematics and Statistics of the Institution, where I did from obtaining the functional and non-functional requirements and business rules, preparing the document requirements and prototype development.
 
