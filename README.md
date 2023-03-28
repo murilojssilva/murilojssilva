@@ -1,16 +1,19 @@
 # Hi. It's a Murilo Silva profile 👋
 
-💻 I worked at Upnid Pagamentos as a Front End Developer, responsible for website maintenance, development of new screens, customer alerts, document submission view, migration of legacy code to Typescript and use of Storybook to maintain the Design System.
+<div class="about">
+  <p>💻 I worked at Upnid Pagamentos as a Front End Developer, responsible for website maintenance, development of new screens, customer alerts, document submission view, migration of legacy code to Typescript and use of Storybook to maintain the Design System.
+  </p>
 
-📓 I was part of an Extension project at the University of the State of Rio de Janeiro aimed at developing the website prototype of the Institute of Mathematics and Statistics of the Institution, where I did from obtaining the functional and non-functional requirements and business rules, preparing the document requirements and prototype development.
+  <p>📓 I was part of an Extension project at the University of the State of Rio de Janeiro aimed at developing the website prototype of the Institute of Mathematics and Statistics of the Institution, where I did from obtaining the functional and non-functional requirements and business rules, preparing the document requirements and prototype development.</p>
 
-:classical_building: I developed the website for the company ResolveLogo, both the frontend developing the company's landing page and the backend developing a micro-service for sending emails.
+  <p>:classical_building: I developed the website for the company ResolveLogo, both the frontend developing the company's landing page and the backend developing a micro-service for sending emails.</p>
 
-🧑‍🎓 Completing the Bachelor's Degree in Computer Science at the State University of Rio de Janeiro.
+  <p>🧑‍🎓 Completing the Bachelor's Degree in Computer Science at the State University of Rio de Janeiro.</p>
 
-📱 I developed the Access System, responsible for listing what types of accessibility are served in the establishments that are close to the user's location.
+  <p>📱 I developed the Access System, responsible for listing what types of accessibility are served in the establishments that are close to the user's location.</p>
 
-📱 Currently, I am part of an NGO that is developing the Corre System, responsible for listing products, services, cultural and social initiatives available to the community
+  <p>📱 Currently, I am part of an NGO that is developing the Corre System, responsible for listing products, services, cultural and social initiatives available to the community</p>
+</div>
 
 ### If you want to see some highlights of my production so far, check:
 
