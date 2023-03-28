@@ -8,9 +8,58 @@
 
 🧑‍🎓 Completing the Bachelor's Degree in Computer Science at the State University of Rio de Janeiro.
 
-📱 Currently, developing the ACESSO System, responsible for listing which types of accessibility are served in registered establishments close to the user's location.
+📱 I developed the Access System, responsible for listing what types of accessibility are served in the establishments that are close to the user's location.
+
+📱 Currently, I am part of an NGO that is developing the Corre System, responsible for listing products, services, cultural and social initiatives available to the community
 
 ### If you want to see some highlights of my production so far, check:
+
+## Hackaton
+
+# ReactJS
+
+- <a href="https://github.com/murilojssilva/click-solucao">Ignite Click Solução</a>
+
+# React Native
+
+- <a href="https://github.com/murilojssilva/click-solucao-mobile">Ignite Click Solução Native</a>
+
+## Masterclass
+
+# ReactJs
+
+- <a href="https://github.com/murilojssilva/masterclass-ui-tailwind">Masterclass UI Tailwind</a>
+
+# React Native
+
+- <a href="https://github.com/murilojssilva/masterclass-featuretoggle-native">Masterclass Feature Toggle Native</a>
+- <a href="https://github.com/murilojssilva/masterclass-reanimated-native">Ignite Reanimated Native</a>
+
+## Bootcamps
+
+# ReactJs
+
+- <a href="https://github.com/murilojssilva/masterclass-ui-tailwind">Masterclass UI Tailwind</a>
+
+# React Native
+
+- <a href="https://github.com/murilojssilva/gopizza-native">Ignite Gopizza Native</a>
+- <a href="https://github.com/murilojssilva/todolist-native ">Ignite ToDo List Native</a>
+- <a href="https://github.com/murilojssilva/igniteshoesapp">Ignite IgniteShoes Native</a>
+- <a href="https://github.com/murilojssilva/ignite-marketspace-native">Ignite Marketspace Native</a>
+- <a href="https://github.com/murilojssilva/daily-diet-native">Ignite Daily Diet Native</a>
+- <a href="https://github.com/murilojssilva/ignitegym-native">Ignite IgniteGym Native</a>
+
+# Elixir
+
+- <a href="https://github.com/murilojssilva/ignite-reports_generator-elixir">Ignite Reports Generator Elixir</a>
+- <a href="https://github.com/murilojssilva/ignite-listfilter-elixir">Ignite Listfilter Elixir</a>
+- <a href="https://github.com/murilojssilva/ignite-lenghtlist-elixir">Ignite Lenghtlist Elixir</a>
+- <a href="https://github.com/murilojssilva/ignite-sumlist-elixir">Ignite Sumlist Elixir</a>
+
+## Desafios
+
+# ReactJS
 
 - <a href="https://github.com/murilojssilva/desafio-pagcom">Desafio PagCom</a>
 - <a href="https://github.com/murilojssilva/upnid-uprace">Desafio Upnid Pagamentos</a>
@@ -18,6 +67,9 @@
 - <a href="https://github.com/murilojssilva/desafio-vizir">Desafio Vizir</a>
 - <a href="https://github.com/murilojssilva/intelie-chart">Intelie Chart</a>
 - <a href="https://github.com/murilojssilva/pokemon-intelie">Pokemon Intelie</a>
+
+## Pessoais
+
 - <a href="https://github.com/murilojssilva/resolvelogofrontend">ResolveLogo Frontend</a>
 - <a href="https://github.com/murilojssilva/resolvelogobackend">ResolveLogo Backend</a>
 
